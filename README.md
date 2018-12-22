@@ -1,5 +1,5 @@
-Conding Assingment - Tripple
-===============================
+Conding Assingment - Triple
+===========================
 # Coding Assignment 설명
 ## 실행
 1. src/server에서 $ node index.js 입력
